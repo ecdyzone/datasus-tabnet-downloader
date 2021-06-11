@@ -8,7 +8,7 @@
 
 **Download data from DataSUS / [Tabnet](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/) and rename it easily and automatically**
 
-*CREDITS: Inittiallly made by [silva-felipe](https://github.com/silva-felipe) (his code is [here](https://github.com/silva-felipe/BootCamp_Alura_DataScience/blob/main/notebooks/tabnet_automaition.ipynb)) using Python and [Selenium](https://www.selenium.dev/documentation/en/). I just expanded it and created a dedicated repository for datasus scraping/downloading tools.*
+*CREDITS: Initiallly made by [silva-felipe](https://github.com/silva-felipe) (his code is [here](https://github.com/silva-felipe/BootCamp_Alura_DataScience/blob/main/notebooks/tabnet_automaition.ipynb)) using Python and [Selenium](https://www.selenium.dev/documentation/en/). I just expanded it and created a dedicated repository for datasus scraping/downloading tools.*
 
 # Next steps
 
