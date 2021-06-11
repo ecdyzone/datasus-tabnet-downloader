@@ -2,13 +2,13 @@
 
 # DataSUS Tabnet Downloader
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mumaral/alura-desafio-modulo-1/blob/main/projeto-modulo-1.ipynb) (notebook written in portuguese)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mumaral/datasus-tabnet-downloader/blob/main/datasus_tabnet_downloader.ipynb) ([notebook](https://github.com/mumaral/datasus-tabnet-downloader/blob/main/datasus_tabnet_downloader.ipynb) written in portuguese)
+
+
 
 **Download data from DataSUS / [Tabnet](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/) and rename it easily and automatically**
 
-Inittiallly made by [silva-felipe](https://github.com/silva-felipe) (the code is [here](https://github.com/silva-felipe/BootCamp_Alura_DataScience/blob/main/notebooks/tabnet_automaition.ipynb)) using Python and [Selenium](https://www.selenium.dev/documentation/en/)
-
-I just expanded it and created a dedicated repository for datasus scraping/downloading tools.
+*CREDITS: Inittiallly made by [silva-felipe](https://github.com/silva-felipe) (his code is [here](https://github.com/silva-felipe/BootCamp_Alura_DataScience/blob/main/notebooks/tabnet_automaition.ipynb)) using Python and [Selenium](https://www.selenium.dev/documentation/en/). I just expanded it and created a dedicated repository for datasus scraping/downloading tools.*
 
 # Next steps
 
